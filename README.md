@@ -16,7 +16,28 @@ pip install --upgrade pip command
 
 pip install pygame
 ```
-
-Y eso sería todo para la instalación de pygame
+Y eso sería todo para la instalación de pygame, nada más colocamos en nuestro proyecto de python 
+```
+import pygame
+```
 
 ## **sys**
+Continuando en la terminal, de la misma forma en la que instalamos pygame lo hacemos pero ahora para sys
+```
+pip install sys
+```
+Y nos vamos a nuestro proyecto de python e importamos el modulo sys que acabamos de instalar en la terminal
+```
+import sys
+```
+
+## **random**
+En terminal colocamos la siguiente linea de comando para la instalación de random
+```
+pip install random
+```
+Abrimos nuestro proyecto de python y escribimos para importar random
+```
+import random
+```
+
