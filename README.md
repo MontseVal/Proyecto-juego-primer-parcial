@@ -21,7 +21,7 @@ Y eso sería todo para la instalación de pygame, nada más colocamos en nuestro
 import pygame
 ```
 
-## **sys**
+## **Sys**
 Continuando en la terminal, de la misma forma en la que instalamos pygame lo hacemos pero ahora para sys
 ```
 pip install sys
@@ -31,7 +31,7 @@ Y nos vamos a nuestro proyecto de python e importamos el modulo sys que acabamos
 import sys
 ```
 
-## **random**
+## **Random**
 En terminal colocamos la siguiente linea de comando para la instalación de random
 ```
 pip install random
