@@ -10,3 +10,13 @@ Nos esperamos a que termine de hacer todo el proceso de la descarga y si nos mar
 WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available. 
 You should consider upgrading via the 'C:\Python310\python.exe -m pip install --upgrade pip command.
 ```
+Entonces ahora si metemos la siguiente linea de comando para actualizar nuestro pip install y proceder a volver a ejecutar nuestra linea de comando antes utiliazada para instalar pygame, colocamos las siguientes lineas de comando
+``` python
+pip install --upgrade pip command
+
+pip install pygame
+```
+
+Y eso sería todo para la instalación de pygame
+
+**sys**
